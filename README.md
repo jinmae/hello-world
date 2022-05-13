@@ -1,2 +1,2 @@
-# hello-world
-GIT 실습용
+﻿# hello-world
+my first commit
